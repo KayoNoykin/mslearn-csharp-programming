@@ -1,0 +1,15 @@
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.exe
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.deps.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.runtimeconfig.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\bin\Debug\net9.0\06-create-guess-the-number-game.pdb
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.GeneratedMSBuildEditorConfig.editorconfig
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.AssemblyInfoInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.AssemblyInfo.cs
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.csproj.CoreCompileInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.sourcelink.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\refint\06-create-guess-the-number-game.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.pdb
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\06-create-guess-the-number-game.genruntimeconfig.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\06-create-guess-the-number-game\obj\Debug\net9.0\ref\06-create-guess-the-number-game.dll

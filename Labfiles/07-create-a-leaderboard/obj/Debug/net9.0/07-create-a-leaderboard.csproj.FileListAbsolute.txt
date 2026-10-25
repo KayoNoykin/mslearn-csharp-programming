@@ -1,0 +1,15 @@
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.exe
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.deps.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.runtimeconfig.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\bin\Debug\net9.0\07-create-a-leaderboard.pdb
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.AssemblyInfoInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.AssemblyInfo.cs
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.csproj.CoreCompileInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.sourcelink.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\refint\07-create-a-leaderboard.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.pdb
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\07-create-a-leaderboard.genruntimeconfig.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\07-create-a-leaderboard\obj\Debug\net9.0\ref\07-create-a-leaderboard.dll
