@@ -1,0 +1,15 @@
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.AssemblyInfoInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.AssemblyInfo.cs
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.csproj.CoreCompileInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.sourcelink.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net10.0\08-create-a-billing-calculator.exe
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net10.0\08-create-a-billing-calculator.deps.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net10.0\08-create-a-billing-calculator.runtimeconfig.json
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net10.0\08-create-a-billing-calculator.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net10.0\08-create-a-billing-calculator.pdb
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\refint\08-create-a-billing-calculator.dll
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.pdb
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\08-create-a-billing-calculator.genruntimeconfig.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net10.0\ref\08-create-a-billing-calculator.dll

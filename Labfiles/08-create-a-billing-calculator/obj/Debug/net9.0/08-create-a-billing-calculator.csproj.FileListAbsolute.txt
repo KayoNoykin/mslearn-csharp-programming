@@ -1,0 +1,5 @@
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.AssemblyInfoInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.AssemblyInfo.cs
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.csproj.CoreCompileInputs.cache
+G:\VisualStudio\repos\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.sourcelink.json
