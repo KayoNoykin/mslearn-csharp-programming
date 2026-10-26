@@ -1,0 +1,9 @@
+[19:30:54] Application started
+[19:31:14] Application started
+[19:31:16] Application started
+[19:31:19] Application started
+[19:32:51] Application started
+[19:33:49] Application started
+[19:33:52] Application started
+[19:33:54] Application started
+[20:36:07] Application started
